@@ -232,3 +232,4 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 /UnitOfWorkDemo/appsettings.json
+/UnitOfWorkDemo/appsettings.Development.json
